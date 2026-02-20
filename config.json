@@ -1,52 +1,93 @@
-{
-  "Author": "ARIF SAHU",
-  "version": "2.0.0",
-  "language": "en",
-  "DeveloperMode": false,
-  "autoCreateDB": true,
-  "autoClean": true,
-  "allowInbox": false,
-  "notiGroup": true,
-  "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
-  "OTPKEY": "",
-  "BOTNAME": "আমি সেই হেনা",
-  "PREFIX": "*",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
-
-  "ADMINBOT": [
-    "1DmVXTmM5y",
-    "61586663640809",
-    "100044713412032"
-  ],
-  "NDH": ["100044713412032"],
-  "adminOnly": false,
-  "ndhOnly": false,
-  "adminPaOnly": false,
-
-  "APPSTATEPATH": "appstate.json",
-  "DATABASE": {
-    "sqlite": { "storage": "data.sqlite" }
-  },
-
-  "commandDisabled": [],
-  "eventDisabled": [],
-
-  "System": {
-    "autoRestart": true,
-    "restartInterval": 86400,
-    "errorLog": true,
-    "saveCrashLogs": true,
-    "maxMemoryLimit": "1024mb"
-  },
-
-  "Performance": {
-    "cacheMessages": true,
-    "optimizeEvents": true,
-    "lazyLoadModules": true,
-    "limitConcurrentRequests": 5,
-    "autoOptimizeOnError": true,
-    "clearCacheOnCrash": true
-  },
+[
+    {
+        "key": "datr",
+        "value": "Rb6Xad8fCnoLC0viPtEcKrrd",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.182Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "sb",
+        "value": "Rr6XaS_TxFyBPy3268UktCyF",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61583508001284",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "xs",
+        "value": "3%3AIKT8da_GwVCGhw%3A2%3A1771552522%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "pas",
+        "value": "61583508001284%3ARFukEZ14M1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B688x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "fr",
+        "value": "0WnSa0cW44mzy0DI6.AWfNrGwnayv0CwBBawiG9gEkOU_HyeyVc0XIswRsbbjYvYjlD2Y.Bpl75G..AAA.0.0.BpmBm_.AWckXwwmChZkigEIo_ILy8Mfixc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3091%3Btimestamp%3A1771575743",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101636037%3BT%3A29526262",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-20T08:22:33.183Z",
+        "lastAccessed": "2026-02-20T08:22:33.183Z"
+    }
+]
 
